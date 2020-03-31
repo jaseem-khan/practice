@@ -5,3 +5,5 @@ b =49
 print("sum of two integer is", a+b)
 
 print("these file merged into a one part")
+
+print("sum of the names")
